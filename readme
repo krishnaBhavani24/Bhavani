@@ -1,0 +1,53 @@
+# IBM HR Analytics – Employee Attrition Analysis
+
+## Project Overview
+
+This project focuses on analyzing employee attrition using the IBM HR Analytics dataset. The objective is to identify the key factors that influence employees leaving the organization and to provide data-driven insights that can help improve employee retention.
+
+## Objectives
+
+* Analyze employee data to understand attrition patterns.
+* Identify important factors affecting employee turnover.
+* Visualize trends and relationships between different variables.
+* Build a predictive model to determine the likelihood of employee attrition.
+
+## Dataset
+
+The dataset used in this project is the **IBM HR Analytics Employee Attrition Dataset**, which includes employee-related information such as age, job role, salary, job satisfaction, work-life balance, and years at the company.
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Jupyter Notebook
+
+## Project Steps
+
+1. Data Collection and Loading
+2. Data Cleaning and Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Data Visualization
+5. Feature Selection
+6. Model Building and Evaluation
+
+## Key Insights
+
+* Job satisfaction and work-life balance significantly affect employee attrition.
+* Employees with lower income and fewer years at the company are more likely to leave.
+* Certain job roles show higher attrition rates compared to others.
+
+## Results
+
+A machine learning model was built to predict employee attrition based on different features. The model helps organizations identify employees who may be at risk of leaving and take preventive measures.
+
+## Conclusion
+
+This project demonstrates how data analysis and machine learning can be used to understand employee behavior and improve retention strategies in organizations.
+
+## Author
+
+Bhavani Matoori
